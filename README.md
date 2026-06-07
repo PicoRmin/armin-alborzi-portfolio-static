@@ -68,9 +68,12 @@ armin-alborzi-portfolio-static/
 ### Work (Sample Projects)
 | # | Project | Type | Stack |
 |---|---------|------|-------|
-| 01 | Pars Digital Store | E-commerce | WordPress, WooCommerce, PHP |
-| 02 | Sadra Watch Store | E-commerce | Next.js, Tailwind, React |
-| 03 | Hesab Yek Accounting | Web App | Django, Python, PostgreSQL |
+| 01 | فروشگاه پارس دیجیتال | E-commerce | WordPress, WooCommerce, PHP |
+| 02 | فروشگاه ساعت صدرا | E-commerce | Next.js, Tailwind, React |
+| 03 | وب‌اپ حساب یک | Web App | Django, Python, PostgreSQL |
+| 04 | سامانه تیکت HelpDesk IT | Web App | Django, Python, REST API |
+| 05 | گروه طبیعت‌گردی شهداد | Tourism | WordPress, HTML/CSS, JavaScript |
+| 06 | فروشگاه موتور پارت | E-commerce | WordPress, WooCommerce, PHP |
 
 ### Services
 1. Web Development (WordPress, Django, Next.js)
